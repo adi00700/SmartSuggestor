@@ -19,9 +19,6 @@ Welcome to the Product Recommendation System project! This repository contains t
 - Efficient server-side processing with Express.js.
 - Utilizes Mongoose for data modeling, improving system accuracy and scalability.
 
-### Live Site
-You can check out the live site of this project [here](https://myproduct-recommendation-system.vercel.app).
-
 ## Tech Stack
 
 - **Client**: ReactJS
@@ -35,7 +32,7 @@ To get started with this project on your local machine, follow these steps:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/ABHAY-05/product-recommendation-system.git
+   git clone https://github.com/adi00700/SmartSuggestor
    ```
 
 2. Navigate to the project directory:
@@ -85,11 +82,4 @@ If you'd like to contribute to this project, please follow these guidelines:
 4. Push to your forked repository: `git push origin feature-name`.
 5. Create a pull request to the `main` branch of this repository.
 
-## Issues
 
-If you encounter any issues or have suggestions for improvements, please create a GitHub issue [here](https://github.com/ABHAY-05/product-recommendation-system/issues).
-
----
-Thank you for checking out the Flipkart Recommendation System project! We hope you find it useful and welcome your contributions.
-
-Happy coding! 🚀
